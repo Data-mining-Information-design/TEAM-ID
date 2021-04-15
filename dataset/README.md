@@ -6,3 +6,6 @@
 
 #### 환율/금리 등 한국 경제 관련 데이터셋
 한국은행경제통계시스템([http://ecos.bok.or.kr](http://ecos.bok.or.kr/flex/EasySearch.jsp?langGubun=K&topCode=060Y001))
+
+#### 미국 연방 기준 금리 데이터셋
+FRED([https://fred.stlouisfed.org/](https://fred.stlouisfed.org/series/DFEDTARU))
