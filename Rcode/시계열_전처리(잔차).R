@@ -5,7 +5,7 @@ library(tseries)
 
 setwd('C:/Users/jongm/OneDrive - 광운대학교/ProjecTS/TEAM-ID')
 getwd()
-hinix <- read.csv(file='./dataset/일별최종.csv', header = TRUE)
+hinix <- read.csv(file='./dataset/hinix_short.csv', header = TRUE)
 
 str(hinix)
 
