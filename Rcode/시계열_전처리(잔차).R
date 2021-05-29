@@ -3,9 +3,9 @@
 library(ggplot2)
 library(tseries)
 
-setwd('C:/Users/jongm/OneDrive - 광운대학교/ProjecTS/TEAM-ID')
+setwd('C:/Users/jongm/OneDrive - 광운대학교/ProjecTS/팀id 파일들/TEAM-ID')
 getwd()
-hinix <- read.csv(file='./dataset/hinix_short.csv', header = TRUE)
+hinix <- read.csv(file='./hinix_short.csv', header = TRUE)
 
 str(hinix)
 
@@ -14,6 +14,7 @@ par(mfrow=c(1,1))
 
 plot(hinix$종가, type = 'l')
 plot(hinix$시가, type = 'l')
+plot(hinix$반도체수출지수, type = 'l')
 plot(hinix$대비, type = 'l')
 plot(hinix$등락률, type = 'l')
 plot(hinix$저가, type = 'l')
