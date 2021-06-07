@@ -1,10 +1,15 @@
 # TEAM-ID
 
-### 컨트리뷰터
+### 참여 팀원[모델링]
 + 팀장 : 오재호
 + 팀원 : 최수지
 + 팀원 : 김종민
 
+1. modeling / 0401~hynix_xgboost.ipynb : XGBoost 방식으로 Grid Search을 통한 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+2. modeling / 0401~samsung_basyian_xgboost.ipynb : XGBoost 방식으로 Bayesian Optimization을 통한 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+3. modeling / CNN.ipynb : Convolutional Neural Network 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+4. modeling / LDA.ipynb : Linear Discriminant Analysis 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+5. modeling / MTL.jpynb : Multi-Task Learning 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
 
 #### 데이터 수집
 전체 데이터
