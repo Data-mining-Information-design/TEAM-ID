@@ -17,8 +17,9 @@
 10. modeling / hynix_xgboost_fin.ipynb : XGBoost 방식으로 Grid Search을 통한 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
 11. modeling / ridgeClassifier.ipynb : Ridge Classifier 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
 12. modeling / shynix_basyian_xgboost.ipynb,shynix_xgboost.ipynb,shynix_xgboost_fin.ipynb : NAN
-13. modeling / sk_hynix_LSTM.ipynb : RNN(양방향 LSTM) 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
-<br> 
+13. modeling / sk_hynix_LSTM.ipynb : RNN(양방향 LSTM) 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다. 
+
+<br></br>
 ### 데이터 수집
 전체 데이터
 - [x] SK하이닉스 주가
