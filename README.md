@@ -5,13 +5,22 @@
 + 팀원 : 최수지
 + 팀원 : 김종민
 
-1. modeling / 0401~hynix_xgboost.ipynb : XGBoost 방식으로 Grid Search을 통한 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
-2. modeling / 0401~samsung_basyian_xgboost.ipynb : XGBoost 방식으로 Bayesian Optimization을 통한 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+1. modeling / 0401~hynix_xgboost.ipynb : XGBoost 방식으로 Grid Search을 통한 삼성전자 주가 예측 진행 코드입니다.
+2. modeling / 0401~samsung_basyian_xgboost.ipynb : XGBoost 방식으로 Bayesian Optimization을 통한 삼성전자 주가 예측 진행 코드입니다.
 3. modeling / CNN.ipynb : Convolutional Neural Network 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
 4. modeling / LDA.ipynb : Linear Discriminant Analysis 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
-5. modeling / MTL.jpynb : Multi-Task Learning 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+5. modeling / MTL.ipynb : Multi-Task Learning 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+6. modeling / automl75_py.ipynb : AutoML으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다. (Jupyter Notebook Error Occur / Colab Recommend)
+7. modeling / baseline_modeling.ipynb : Logistic Regression 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+8. modeling / hinix_xgboost.ipynb : NAN
+9. modeling / hynix_basyian_xgboost.ipynb : XGBoost 방식으로 Bayesian Optimization을 통한 SK하이닉스 주가 예측 진행 코드입니다.
+10. modeling / hynix_xgboost_fin.ipynb : XGBoost 방식으로 Grid Search을 통한 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+11. modeling / ridgeClassifier.ipynb : Ridge Classifier 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
+12. modeling / shynix_basyian_xgboost.ipynb,shynix_xgboost.ipynb,shynix_xgboost_fin.ipynb : NAN
+13. modeling / sk_hynix_LSTM.ipynb : RNN(양방향 LSTM) 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
 
-#### 데이터 수집
+
+### 데이터 수집
 전체 데이터
 - [x] SK하이닉스 주가
 - [x] 삼성 주가(반도체 업종간 비교 데이터셋)
