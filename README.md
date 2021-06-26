@@ -1,10 +1,12 @@
 # TEAM-ID
 
+### 기간 : 2021.04~2021.06
 ### 참여 팀원[모델링]
 + 팀장 : 오재호
 + 팀원 : 최수지
 + 팀원 : 김종민
 
+## Code Explain
 1. modeling / 0401~hynix_xgboost.ipynb : XGBoost 방식으로 Grid Search을 통한 삼성전자 주가 예측 진행 코드입니다.
 2. modeling / 0401~samsung_basyian_xgboost.ipynb : XGBoost 방식으로 Bayesian Optimization을 통한 삼성전자 주가 예측 진행 코드입니다.
 3. modeling / CNN.ipynb : Convolutional Neural Network 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다.
@@ -20,11 +22,10 @@
 13. modeling / sk_hynix_LSTM.ipynb : RNN(양방향 LSTM) 방식으로 SK하이닉스&삼성전자 주가 예측 진행 코드입니다. 
 
 <br></br>
-### 데이터 수집
+### Data Collection
 전체 데이터
 - [x] SK하이닉스 주가
 - [x] 삼성 주가(반도체 업종간 비교 데이터셋)
-
 
 외부적 요인
 - [x] 경제 성장율
@@ -38,7 +39,6 @@
 - [x] 필라델피아 반도체 지수
 - [x] 비트코인 종가/변동률
 - [x] S&P 500 데이터 
-
 
 내부적 요인1_실적(전년분기대비/전년대비년간)
 - [x] 매출 _증감
