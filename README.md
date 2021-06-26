@@ -1,10 +1,10 @@
 # TEAM-ID
 
 ### 기간 : 2021.04~2021.06
-### 참여 팀원[모델링]
-+ 팀장 : 오재호
-+ 팀원 : 최수지
-+ 팀원 : 김종민
+### Participant[ML/DL]
++ Team Leader : 오재호
++ Team Member : 최수지
++ Team Member : 김종민
 
 ## Code Explain
 1. modeling / 0401~hynix_xgboost.ipynb : XGBoost 방식으로 Grid Search을 통한 삼성전자 주가 예측 진행 코드입니다.
