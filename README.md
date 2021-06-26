@@ -6,6 +6,9 @@
 + Team Member : 최수지
 + Team Member : 김종민
 
+### 반도체 주가 예측 및 관련 요인 분석 (PPT)
+ - report.pdf 
+
 ## Code Explain
 1. modeling / 0401~hynix_xgboost.ipynb : XGBoost 방식으로 Grid Search을 통한 삼성전자 주가 예측 진행 코드입니다.
 2. modeling / 0401~samsung_basyian_xgboost.ipynb : XGBoost 방식으로 Bayesian Optimization을 통한 삼성전자 주가 예측 진행 코드입니다.
